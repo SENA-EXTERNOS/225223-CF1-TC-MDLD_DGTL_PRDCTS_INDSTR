@@ -1,7 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo:
+      'Fundamentos para la realización del boceto manual de un producto',
+    descripcionCurso:
+      'La forma adecuada para expresar una idea a nivel técnico, cuando se refiere a un producto industrial, es tomar papel y lápiz. Se realiza un primer dibujo de ese objeto, llamado boceto, el cual es elaborado con dimensiones exactas y para ello se utilizan diferentes instrumentos de dibujo. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
