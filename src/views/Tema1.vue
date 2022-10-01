@@ -126,7 +126,7 @@
                   h3.mb-1 Importancia del papel
                   p.text-small Consideraciones generales de tratamiento clínico del paciente con COVID-19 en el servicio de urgencias  
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc1.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
     p.mb-5(data-aos='fade-right') A continuación, se enumeran las principales herramientas usadas actualmente para el dibujo. 
