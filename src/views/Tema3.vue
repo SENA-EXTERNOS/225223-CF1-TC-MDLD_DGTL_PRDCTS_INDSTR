@@ -127,7 +127,7 @@
     .titulo-dot.d-flex.mb-4(data-aos='fade-right')
       i.fas.fa-circle.me-2 
       h4.mb-0 Simbolos mas utilizados en el dibujo
-    .bloque-texto-g.p-3.p-sm-4.p-md-5(data-aos="zoom-in" style='background-color: #c6dbe1').mb-5
+    .bloque-texto-g.p-3.p-sm-4.p-md-5(data-aos="zoom-in" style='background-color: #abdfec').mb-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/5.svg')})`}"
         )

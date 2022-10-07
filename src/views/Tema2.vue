@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 2
       h1 Perspectiva
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="zoom-in")
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="zoom-in").mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/1.jpg')})`}"
       )
@@ -67,7 +67,7 @@
       .col-lg-4.col-8(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/5.png', alt='')
       .col-lg-8
         div(style='background-color: #e5e9eb').p-3.mb-3
-          p.mb-0 El Instituto Colombiano de Normas Técnicas y Certificación, ICONTEC, es el organismo nacional de normalización, por tanto, es quien establece las normas para la realización de dibujo técnico y arquitectónico en el país. No obstante, dependiendo del usuario o cliente final podrán aplicarse normas internacionales como la ISO (International Organization for Standardization) o DIN abreviatura de Deutsche Industrie Normen (Normas Industriales Alemanas).
+          p.mb-0 El Instituto Colombiano de Normas Técnicas y Certificación, #[b ICONTEC], es el organismo nacional de normalización, por tanto, es quien establece las normas para la realización de dibujo técnico y arquitectónico en el país. No obstante, dependiendo del usuario o cliente final podrán aplicarse normas internacionales como la #[b ISO] (International Organization for Standardization) o #[b DIN] abreviatura de Deutsche Industrie Normen (Normas Industriales Alemanas).
         p.mb-5(data-aos='fade-right') A continuación, algunas de las normas colombianas aplicables al dibujo técnico:
         ul.lista-ul--color
           li
