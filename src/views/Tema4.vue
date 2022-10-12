@@ -21,28 +21,24 @@
                 figure
                   img(src='@/assets/curso/temas/tema4/2.png', alt='Texto que describa la imagen')
               .col-md-4.mb-4.mb-md-0
-                h3 Tipos de vistas 
                 p En el campo del dibujo se encuentran las principales vistas para plasmar o dibujar un objeto, se evidencia siempre en sus líneas de proyección el alto, el ancho y la profundidad que las compone.
             .row(titulo="Vista frontal").justify-content-center
               .col-md-4
                 figure
                   img(src='@/assets/curso/temas/tema4/3.png', alt='Texto que describa la imagen')
               .col-md-4.mb-4.mb-md-0
-                h3 Vista frontal
                 p Este tipo de vista es de las más importantes, pues demuestra las dimensiones de ancho y alto de todos los perfiles que contenga la pieza que se piensa plasmar, por proyección de vista.
             .row(titulo="Vista horizontal").justify-content-center
               .col-md-4
                 figure
                   img(src='@/assets/curso/temas/tema4/4.png', alt='Texto que describa la imagen')
               .col-md-4.mb-4.mb-md-0
-                h3 Vista horizontal
                 p Esta proyección del objeto en el plano indica o evidencia el ancho y la profundidad del objeto que se dibuja.
             .row(titulo="Vista lateral").justify-content-center
               .col-md-4
                 figure
                   img(src='@/assets/curso/temas/tema4/5.png', alt='Texto que describa la imagen')
               .col-md-4.mb-4.mb-md-0
-                h3 Vista lateral
                 p En este tipo de vista, se plasma la profundidad y altura de la figura u objeto. Esta debe tener relación exacta con las otras, es decir, el perfil debe encontrarse a la misma altura y su medida debe ser exacta y correspondiente con sus otras vistas. Además, como reconocimiento en el mundo del dibujo, la vista lateral derecha es la vista más utilizada.
             
 

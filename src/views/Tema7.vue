@@ -20,7 +20,6 @@
             figure
               img(src='@/assets/curso/temas/tema7/2.png', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0
-            h4 Escalímetro
             p La herramienta principal para realizar el escalado es el Escalímetro. Es una regla de carácter especial, con forma triangular y que presenta diferentes escalas en el mismo cuerpo de la regla, su utilización es para #[b medir dibujos que utilizan diferentes escalas], en sus bordes tiene un rango que expresa escalas calibradas; para su funcionamiento o manipulación solo se debe ir girando el escalímetro, identificando la escala apropiada a utilizar.
               br
               br
@@ -31,7 +30,6 @@
             figure
               img(src='@/assets/curso/temas/tema7/3.png', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0
-            h4 Acotado
             p Es el proceso de expresar por medio de palabras, números, con signos, si se requiere, #[b líneas o símbolos], lo correspondiente al contenido de un objeto dentro de un dibujo, que se hace antes de su realización; para ello se siguen unas convenciones determinadas y reglas preestablecidas, siguiendo las normativas que se refieren al dibujo. Las principales normas que se enmarcan y disponen en el área de las acotaciones son: la ISO 2595-1973 y la UNE 1-133-75.
               br
               br
@@ -45,7 +43,6 @@
             figure
               img(src='@/assets/curso/temas/tema7/4.png', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0
-            h4 Vistas
             p Las vistas principales que contiene un objeto son las #[b proyecciones ortogonales] (líneas y ángulo) que este tiene sobre el plano, dispuestos en forma de cubo. De manera similar, se puede expresar este concepto del dibujo como las proyecciones ortogonales de un objeto, según la distancia desde donde se le mire.
       .py-3.py-md-4(titulo="Representación volumétrica")
         .row.justify-content-center
@@ -53,7 +50,6 @@
             figure
               img(src='@/assets/curso/temas/tema7/5.png', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0
-            h4 Representación volumétrica
             p La representación volumétrica es una actividad gráfica donde se hace una #[b expresión o representación visual de un objeto en sus tres dimensiones], es decir, que el dibujo tiende a verse como se observa en la realidad, de manera #[b tridimensional]. También se puede indicar que es la expresión de la imagen de un objeto, que se dibuja de manera plana y tiene unas pantallas que simulan profundidad, gracias a diferentes efectos visuales. Además, los dibujos que se realizan con esta representación de volumen crean movimiento en tres dimensiones, gracias a la dispersión de la iluminación en regiones bien específicas en el espacio, en los ejes X, Y, Z respectivamente.
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-8

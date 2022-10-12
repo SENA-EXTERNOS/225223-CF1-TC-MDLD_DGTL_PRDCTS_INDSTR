@@ -17,13 +17,10 @@
       .col-lg-8(data-aos="fade-right")
         TabsA.color-acento-contenido.mb-5
           .tarjeta.p-4(titulo="Algorítmica" style='background-color: #daf1f7')
-            h4 Algorítmica
             p Usa el álgebra y los cálculos para resolver problemas asociados a la extensión de la figura.
           .tarjeta.p-4(titulo="Descriptiva" style='background-color: #daf1f7')
-            h4 Descriptiva
             p Encargada de solucionar las circunstancias a nivel del espacio, por medio de operaciones que se realizan en un plano en donde están representadas las figuras.
           .tarjeta.p-4(titulo="Analítica" style='background-color: #daf1f7')
-            h4 Analítica
             p Encargada de estudiar las figuras a partir de un sistema de coordenadas y utilizando metodologías con el análisis matemático.
       .col-lg-4.col-8(data-aos="fade-left"): img(src='@/assets/curso/temas/tema5/2.png', alt='')
 </template>
