@@ -2,6 +2,10 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+    .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+      h5 Modelado digital de productos industriales
+      br 
+      span Sintesis: Fundamentos para la realización del boceto manual de un producto. 
 
     p A continuación, se presenta una síntesis de los principales aspectos del dibujo técnico, que son las habilidades y conocimientos esenciales para elaborar dibujos técnicos y bocetos, cuando se diseña un producto industrial o prototipo.
 
