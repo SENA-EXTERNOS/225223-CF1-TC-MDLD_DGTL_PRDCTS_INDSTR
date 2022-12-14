@@ -34,7 +34,7 @@
     Separador
     #t_3_1.titulo-segundo.color-acento-botones(data-aos='fade-right')
       h2 3.1 Información contenida
-    p.mb-5(data-aos='fade-right') La información básica, que debe estar presente en la elaboración de un plano mecánico, debe estar alineada con la norma técnica que se aplique, entre los elementos más destacados se tiene :
+    p.mb-5(data-aos='fade-right') La información básica, que debe estar presente en la elaboración de un plano mecánico, debe estar alineada con la norma técnica que se aplique, entre los elementos más destacados se tiene:
     .row.justify-content-center.mb-5
       .col-lg-5.col-8(data-aos="fade-right"): img(src='@/assets/curso/temas/tema3/2.png', alt='')
       .col-lg-7
