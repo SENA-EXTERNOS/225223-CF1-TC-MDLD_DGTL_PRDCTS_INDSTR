@@ -8,7 +8,7 @@
       h1 Dibujo
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7 
-        p.mb-3(data-aos='fade-right') El dibujo surge gracias a la necesidad de comunicación entre los seres humanos, cuando aún no estaban establecidos los lenguajes conocidos hoy en día, este ha evolucionado debido a la facilidad que presenta para transmitir una idea, además, ha sido valioso para realizar el registro de eventos históricos. A lo largo del tiempo, y con la aparición de las primeras máquinas y herramientas se ha dado lugar, por un lado, al dibujo artístico y por otro al dibujo técnico.
+        p.mb-3(data-aos='fade-right') El dibujo surge gracias a la necesidad de comunicación entre los seres humanos, cuando aun no estaban establecidos los lenguajes conocidos hoy en día, este ha evolucionado debido a la facilidad que presenta para transmitir una idea, además, ha sido valioso para realizar el registro de eventos históricos. A lo largo del tiempo, y con la aparición de las primeras máquinas y herramientas se ha dado lugar, por un lado, al dibujo artístico y por otro al dibujo técnico.
         .cajon.color-acento-botones.p-4.mb-4(style='background-color: #ffefd9')
           p El dibujo técnico es un sistema de representación gráfica de diversos tipos de objetos, cuyo propósito es proporcionar información suficiente para facilitar su análisis, ayudar a mejorar su diseño y permitir la futura construcción del mismo, una o varias veces. Con este contenido se adquiere la destreza para la creación de bocetos, según los requerimientos del cliente y las especificaciones técnicas del producto, haciendo énfasis en la representación de ideas.
       .col-lg-5.col-8: img(src='@/assets/curso/temas/tema1/1.png', alt='')
