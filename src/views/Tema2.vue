@@ -72,23 +72,23 @@
         ul.lista-ul--color
           li
             i.fas.fa-circle.fa-xs
-            p.mb-0 #[b NTC 1580:] dibujo técnico de las escalas
+            p.mb-0 #[b NTC 1580:] dibujo técnico de las escalas.
 
           li
             i.fas.fa-circle.fa-xs
-            p.mb-0 #[b NTC 1594:] terminología
+            p.mb-0 #[b NTC 1594:] terminología.
           li
             i.fas.fa-circle.fa-xs
-            p.mb-0 #[b NTC 1687:] formato y plegado de los dibujos
+            p.mb-0 #[b NTC 1687:] formato y plegado de los dibujos.
           li
             i.fas.fa-circle.fa-xs
-            p.mb-0 #[b NTC 1722:] tolerancia de dimensiones lineales y angulares
+            p.mb-0 #[b NTC 1722:] tolerancia de dimensiones lineales y angulares.
           li
             i.fas.fa-circle.fa-xs
-            p.mb-0 #[b NTC 1777:] principios generales de presentación
+            p.mb-0 #[b NTC 1777:] principios generales de presentación.
           li
             i.fas.fa-circle.fa-xs
-            p.mb-0 #[b NTC 1831:] tolerancias geométricas: tolerancia de forma y alineación; generalidades, símbolos, definiciones, indicaciones en orientación, localización y dibujos
+            p.mb-0 #[b NTC 1831:] tolerancias geométricas: tolerancia de forma y alineación; generalidades, símbolos, definiciones, indicaciones en orientación, localización y dibujos.
         
 
 </template>
