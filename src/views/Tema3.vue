@@ -80,23 +80,22 @@
             ul.lista-ul--color
               li.mb-0
                 i.fas.fa-square.fa-xs
-                | Título del plano, número o identificación y versión 
+                | Título del plano, número o identificación y versión.
               li.mb-0
                 i.fas.fa-square.fa-xs
-                |Título del proyecto y referencia del autor y versión 
+                |Título del proyecto y referencia del autor y versión.
               li.mb-0
                 i.fas.fa-square.fa-xs
-                | Ubicación del proyecto dirección o coordenadas
+                | Ubicación del proyecto dirección o coordenadas.
               li.mb-0
                 i.fas.fa-square.fa-xs
-                | Datos relativos al autor o autores del proyecto y de los colaboradores
-
+                | Datos relativos al autor o autores del proyecto y de los colaboradores.
               li.mb-0
                 i.fas.fa-square.fa-xs
-                | Firma del autor o autores
+                | Firma del autor o autores.
               li.mb-0
                 i.fas.fa-square.fa-xs
-                | Logotipos, sellos de calidad y publicidad
+                | Logotipos, sellos de calidad y publicidad.
     Separador
     #t_3_2.titulo-segundo.color-acento-botones(data-aos='fade-left')
       h2 3.2 Cotas anotaciones, simbología, escala, formatos
@@ -126,7 +125,7 @@
             p.mb-0 Son aquellas que no precisan tolerancias, únicamente son precisas para su mecanización y para control de las medidas máximas para efectos de preparación de material. 
     .titulo-dot.d-flex.mb-4(data-aos='fade-right')
       i.fas.fa-circle.me-2 
-      h4.mb-0 Simbolos mas utilizados en el dibujo
+      h4.mb-0 Símbolos más utilizados en el dibujo
     .bloque-texto-g.p-3.p-sm-4.p-md-5(data-aos="zoom-in" style='background-color: #abdfec').mb-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/5.svg')})`}"
