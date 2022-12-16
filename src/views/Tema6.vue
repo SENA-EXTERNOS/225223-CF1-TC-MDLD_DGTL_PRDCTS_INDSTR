@@ -17,7 +17,7 @@
       SlyderA(tipo='b')
         .row.justify-content-center
           .col-md-4.mb-4.mb-md-0
-            p La mayoría de los países del mundo utilizan el metro como una unidad universal para medir o expresar la longitud, es decir, a lo que se refiere al sistema internacional. Sin embargo, algunas naciones de idioma inglés adoptan otro sistema de medida, llamado el sistema inglés, para este caso de la longitud se expresa en pies .
+            p Las unidades de medida se han utilizado desde hace mucho tiempo en la historia y varían no solamente por la época, sino también de una región a otra, según sus necesidades y áreas de investigación, por lo que las hay de diferentes tipos. La mayoría de los países del mundo utilizan, por ejemplo, el metro como unidad universal. Sin embargo, en otros países de habla inglesa como Estados Unidos, Canadá o Reino Unido, se adoptan otros sistemas como el pie". De ahí que existan también herramientas que ayudan a trabajar con diferentes unidades de medida y hacer más fácil su utilización. Observe a continuación algunos aspectos relacionados con los sistemas de unidades de medida, su conversión y sistemas coordenados.
           .col-md-7
             figure
               img(src='@/assets/curso/temas/tema6/2.svg', alt='Texto que describa la imagen')
