@@ -24,9 +24,7 @@
             i.fas.fa-circle.fa-xs
             | Planos mecánicos de despiece.
       .col-lg-5.col-8(data-aos="fade-left"): img(src='@/assets/curso/temas/tema3/1.png', alt='')
-    figure.mb-5 
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.color-acento-botones.p-4.mb-4(style='background-color: #ffefd9')
@@ -125,13 +123,13 @@
             p.mb-0 Son aquellas que no precisan tolerancias, únicamente son precisas para su mecanización y para control de las medidas máximas para efectos de preparación de material. 
     .titulo-dot.d-flex.mb-4(data-aos='fade-right')
       i.fas.fa-circle.me-2 
-      h4.mb-0 Símbolos más utilizados en el dibujo
+      h4.mb-0 Símbolos utilizados en el dibujo
     .bloque-texto-g.p-3.p-sm-4.p-md-5(data-aos="zoom-in" style='background-color: #abdfec').mb-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/5.svg')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 A veces, sobre todo por falta de espacio, se utilizan símbolos (junto con abreviaturas) en los dibujos. Los símbolos son básicamente pequeños pictogramas y a menudo se asemejan a los elementos reales u objetos que representan. Para evitar confusiones y malas interpretaciones por diferentes autores, los significados de varios símbolos y abreviaturas son estandarizados y documentados. Esto asegura que el técnico realice la interpretación precisa de un dibujo determinado, según lo previsto por el diseñador.
+          p.mb-0 A veces, sobre todo por falta de espacio, se utilizan símbolos (junto con abreviaturas) en los dibujos. Los símbolos son básicamente pequeños pictogramas y a menudo se asemejan a los elementos reales u objetos que representan. Para evitar confusiones y malas interpretaciones por diferentes autores, los significados de varios símbolos y abreviaturas son estandarizados y documentados. Esto asegura que el técnico realice la interpretación precisa de un dibujo determinado, según lo previsto por el diseñador. 
     p.mb-5(data-aos='fade-right') En el dibujo de ingeniería existen varios símbolos y abreviaturas, estos pueden clasificarse en varias categorías dependiendo del campo donde se suelen utilizar. Las categorías incluyen: 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2.col-4(data-aos="fade-right"): img(src='@/assets/curso/temas/tema3/6.svg', alt='')

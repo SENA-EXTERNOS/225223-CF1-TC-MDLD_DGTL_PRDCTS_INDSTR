@@ -10,8 +10,9 @@
             img(src="@/assets/template/arrastrar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Arrastrar y soltar
-        p.mb-4 Esta actividad tiene como objetivo asociar conceptos de dibujo con la definición correspondiente, así puede repasar los temas que debe tener en cuenta para realizar un boceto.
+          h2 Fundamentos para la realización del boceto manual de un producto
+        p Apreciado aprendiz, el objetivo de esta actividad es asociar conceptos clave del dibujo junto con su definición correspondiente, los cuales fueron vistos en este componente.
+        p Arrastre la palabra que considere correcta como respuesta a la descripción dada, de esta forma puede repasar los temas que se deben tener en cuenta para realizar un boceto.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
