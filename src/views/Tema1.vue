@@ -12,6 +12,8 @@
         .cajon.color-acento-botones.p-4.mb-4(style='background-color: #ffefd9')
           p El dibujo técnico es un sistema de representación gráfica de diversos tipos de objetos, cuyo propósito es proporcionar información suficiente para facilitar su análisis, ayudar a mejorar su diseño y permitir la futura construcción del mismo, una o varias veces. Con este contenido se adquiere la destreza para la creación de bocetos, según los requerimientos del cliente y las especificaciones técnicas del producto, haciendo énfasis en la representación de ideas.
       .col-lg-5.col-8: img(src='@/assets/curso/temas/tema1/1.png', alt='')
+      
+    p A continuación veremos un breve recorrido por la historia del dibujo, desde su primera aparición, pasando por los orígenes del dibujo técnico hasta la época contemporánea en que surge el dibujo asistido por computador.
     .row.justify-content-center.mb-5
       .col-lg-10
         .infografia-editada
