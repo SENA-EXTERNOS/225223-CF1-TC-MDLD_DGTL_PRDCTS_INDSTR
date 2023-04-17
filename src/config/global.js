@@ -279,13 +279,13 @@ export default {
       link: 'https://www.academia.edu/13544206/HISTORIA_DEL_DIBUJO',
     },
     {
-      referencia: 'Timetoast timelines (2022) HISTORIA DEL DIBUJO. Timeline.. ',
+      referencia: 'Timetoast timelines (2022) HISTORIA DEL DIBUJO. Timeline. ',
       link:
         'https://www.timetoast.com/timelines/historia-del-dibujo-e4a3cae9-8c57-4ce5-ad6a-495e88406ea2',
     },
     {
       referencia:
-        ' https://www.crehana.com 2022. Mejores ejercicios de perspectiva para ser un pro',
+        ' https://www.crehana.com 2022. Mejores ejercicios de perspectiva para ser un pro del dibujo.',
       link:
         'https://www.crehana.com/blog/dibujo-pintura/mejores-ejercicios-perspectiva-arte/#:~:text=Regularmente%2C%20se%20dibuja%20con%20el,conocida%20tambi%C3%A9n%20como%20perspectiva%20oblicua',
     },
