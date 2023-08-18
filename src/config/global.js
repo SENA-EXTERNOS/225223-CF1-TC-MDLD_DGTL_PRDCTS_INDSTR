@@ -270,10 +270,10 @@ export default {
         'Ferrando, E. (2019) Medida y proporción. Universidad Oberta de Catalunya.',
       link: 'http://art-toolkit.recursos.uoc.edu/es/medida-y-proporcion/',
     },
-    {
-      referencia: 'Universidad Politécnica de Madrid (2022).',
-      link: 'http://ocw.upm.es/',
-    },
+    // {
+    //   referencia: 'Universidad Politécnica de Madrid (2022).',
+    //   link: 'http://ocw.upm.es/',
+    // },
     {
       referencia: 'Aldo, S. (2022) Historia del dibujo.Academia.edu.',
       link: 'https://www.academia.edu/13544206/HISTORIA_DEL_DIBUJO',

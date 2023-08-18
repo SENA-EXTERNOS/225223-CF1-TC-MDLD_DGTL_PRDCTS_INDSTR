@@ -13,7 +13,7 @@
           p El dibujo técnico es un sistema de representación gráfica de diversos tipos de objetos, cuyo propósito es proporcionar información suficiente para facilitar su análisis, ayudar a mejorar su diseño y permitir la futura construcción del mismo, una o varias veces. Con este contenido se adquiere la destreza para la creación de bocetos, según los requerimientos del cliente y las especificaciones técnicas del producto, haciendo énfasis en la representación de ideas.
       .col-lg-5.col-8: img(src='@/assets/curso/temas/tema1/1.png', alt='')
       
-    p A continuación veremos un breve recorrido por la historia del dibujo, desde su primera aparición, pasando por los orígenes del dibujo técnico hasta la época contemporánea en que surge el dibujo asistido por computador.
+    p A continuación, veremos un breve recorrido por la historia del dibujo, desde su primera aparición, pasando por los orígenes del dibujo técnico hasta la época contemporánea en que surge el dibujo asistido por computador.
     .row.justify-content-center.mb-5
       .col-lg-10
         .infografia-editada
@@ -137,19 +137,19 @@
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema1/16.svg', alt='Texto que describa la imagen')
-          .tarjeta.p-3.rounded-0(x="5%" y="70%" numero="" style='background-color: #e5e9eb')
+          .tarjeta.p-3.rounded-0(x="1.5%" y="71.5%" numero="" style='background-color: #e5e9eb')
             h5 Portaminas y lápices
             .row.justify-content-center.mb-5
               .col-lg-4.col-8: img(src='@/assets/curso/temas/tema1/17.jpg', alt='')
               .col-lg-8
                 p Los lápices están compuestos de grafito que es un mineral de carbono de color negruzco. Generalmente, se utilizan 3. Un lápiz H o 2H, un HB y un B o 2B, dependiendo de lo intensa y oscura que se quiera la línea. También se usan los portaminas que dispone de un compartimiento para almacenar minas de recambio, puede fabricarse con plástico, madera o metal y las minas de recambio tienen la misma denominación según la intensidad del trazo que se desee.     
-          .tarjeta.p-3.rounded-0(x="18%" y="25%" numero="" style='background-color: #e5e9eb')
+          .tarjeta.p-3.rounded-0(x="9.3%" y="41.5%" numero="" style='background-color: #e5e9eb')
             h5 Estilógrafos de tinta
             .row.justify-content-center.mb-5
               .col-lg-4.col-8: img(src='@/assets/curso/temas/tema1/18.jpg', alt='')
               .col-lg-8
                 p Los dibujantes técnicos dependen de los estilógrafos de tinta para dibujar y crear profesionalmente. Antes se usaba tinta china, ahora hay plumas técnicas con punteras tubulares para conseguir más precisión.
-          .tarjeta.p-3.rounded-0(x="39%" y="2.5%" numero="" style='background-color: #e5e9eb')
+          .tarjeta.p-3.rounded-0(x="24%" y="15.5%" numero="" style='background-color: #e5e9eb')
             h5 Compás
             .row.justify-content-center.mb-5
               .col-lg-4.col-8: img(src='@/assets/curso/temas/tema1/19.jpg', alt='')
@@ -162,13 +162,13 @@
                   li
                     i.fas.fa-angle-right
                     | Trasladar distancias de forma precisa.
-          .tarjeta.p-3.rounded-0(x="60%" y="2.5%" numero="" style='background-color: #e5e9eb')
+          .tarjeta.p-3.rounded-0(x="75.5%" y="15.5%" numero="" style='background-color: #e5e9eb')
             h5 Reglas
             .row.justify-content-center.mb-5
               .col-lg-4.col-8: img(src='@/assets/curso/temas/tema1/20.jpg', alt='')
               .col-lg-8
                 p La regla es útil para trazar líneas rectas. Para ello, se coloca en puntos específicos de un dibujo o una superficie, después, se pasa un lápiz o un estilógrafo para hacer una línea recta sobre el papel.
-          .tarjeta.p-3.rounded-0(x="85%" y="35%" numero="" style='background-color: #e5e9eb')
+          .tarjeta.p-3.rounded-0(x="90.5%" y="41.5%" numero="" style='background-color: #e5e9eb')
             h5 Escuadras
             .row.justify-content-center.mb-5
               .col-lg-4.col-8: img(src='@/assets/curso/temas/tema1/21.jpg', alt='')
@@ -181,7 +181,7 @@
                   li
                     i.fas.fa-angle-right
                     | Medir ángulos
-          .tarjeta.p-3.rounded-0(x="95%" y="70%" numero="" style='background-color: #e5e9eb')
+          .tarjeta.p-3.rounded-0(x="98.5%" y="69%" numero="" style='background-color: #e5e9eb')
             h5 Plantillas de rotulación y curvas
             .row.justify-content-center.mb-5
               .col-lg-4.col-8: img(src='@/assets/curso/temas/tema1/22.jpg', alt='')
