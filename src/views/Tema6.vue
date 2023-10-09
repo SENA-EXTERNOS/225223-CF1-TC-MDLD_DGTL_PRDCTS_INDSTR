@@ -30,7 +30,7 @@
               img(src='@/assets/curso/temas/tema6/3.svg', alt='Texto que describa la imagen')
         .row.justify-content-center
           .col-md-4.mb-4.mb-md-0
-            h4 Sistemas coordenados
+            h4 Sistema de coordenadas
             p Un sistema de coordenadas puede tener diferentes características, en dibujo para expresar un objeto que utiliza sistemas coordenados cartesianos o rectangulares, sirve para localizar elementos en el dibujo con precisión. Se distribuye con un eje horizontal denominado eje X, y otro vertical también conocido como el eje Y.
           .col-md-7
             figure

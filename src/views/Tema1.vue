@@ -99,7 +99,7 @@
             p #[b Guías especializadas] para el uso del color en proyectos, se presentan diferentes apartados, como predicción y tendencias cromáticas, preferencias cromáticas personales y su significado, mensajes cromáticos, proporciones correctas y efectos especiales.
               br
               br
-              |El uso adecuado del color, crea diferentes ambientes para los proyectos o productos o el mercado. Una de las guías que se puede tomar como referencia es el libro Armonía cromática. Edición Pantone, que es una guía completa con información especializada sobre el uso del color para resultados profesionales. Sin embargo, existen muchas referencias y artículos en la web, donde se encuentran recomendaciones acerca del uso del color en proyectos específicos.
+              |El uso adecuado del color, crea diferentes ambientes para los proyectos, productos o el mercado. Una de las guías que se puede tomar como referencia es el libro Armonía cromática. Edición Pantone, que es una guía completa con información especializada sobre el uso del color para resultados profesionales. Sin embargo, existen muchas referencias y artículos en la web, donde se encuentran recomendaciones acerca del uso del color en proyectos específicos.
           .col-md-7
             figure
               img(src='@/assets/curso/temas/tema1/13.png', alt='Texto que describa la imagen')
@@ -131,7 +131,7 @@
                     span Descargar
                     i.fas.fa-file-download
     p.mb-5(data-aos='fade-right') A continuación, se enumeran las principales herramientas usadas actualmente para el dibujo. 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5.p-5
       .col-lg-11
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
