@@ -6,16 +6,6 @@ export default {
       'La forma adecuada para expresar una idea a nivel técnico, cuando se refiere a un producto industrial, es tomar papel y lápiz. Se realiza un primer dibujo de ese objeto, llamado boceto, el cual es elaborado con dimensiones exactas y para ello se utilizan diferentes instrumentos de dibujo. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    // imagenesDecorativasBanner: [
-    //   {
-    //     clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-    //     imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-    //   },
-    //   {
-    //     clases: ['banner-principal-decorativo-2'],
-    //     imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-    //   },
-    // ],
   },
   menuPrincipal: {
     menu: [
@@ -270,10 +260,6 @@ export default {
         'Ferrando, E. (2019) Medida y proporción. Universidad Oberta de Catalunya.',
       link: 'http://art-toolkit.recursos.uoc.edu/es/medida-y-proporcion/',
     },
-    // {
-    //   referencia: 'Universidad Politécnica de Madrid (2022).',
-    //   link: 'http://ocw.upm.es/',
-    // },
     {
       referencia: 'Aldo, S. (2022) Historia del dibujo.Academia.edu.',
       link: 'https://www.academia.edu/13544206/HISTORIA_DEL_DIBUJO',
@@ -285,7 +271,7 @@ export default {
     },
     {
       referencia:
-        ' https://www.crehana.com 2022. Mejores ejercicios de perspectiva para ser un pro del dibujo.',
+        ' Arriola, M. L. (2022) <em>Conoce los mejores ejercicios de perspectiva para ser un pro del dibujo. </em>Crehana',
       link:
         'https://www.crehana.com/blog/dibujo-pintura/mejores-ejercicios-perspectiva-arte/#:~:text=Regularmente%2C%20se%20dibuja%20con%20el,conocida%20tambi%C3%A9n%20como%20perspectiva%20oblicua',
     },
